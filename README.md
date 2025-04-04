@@ -1,5 +1,5 @@
 # Comparative-Analysis-of-a-2-1-MUX-at-the-Transistor-Level-and-Using-Spintronic-Devices
-We are a team of 4 students from K L University Hyderabad working on a project under the courses Integrated System Design Automation and Analog VLSI Design. Our project focuses on drafting a paper titled "Comparative Analysis of a 2:1 MUX at the Transistor Level and Using Spintronic Devices."
+We are a team of 2 students from K L University Hyderabad working on a project under the courses Integrated System Design Automation and Analog VLSI Design. Our project focuses on drafting a paper titled "Comparative Analysis of a 2:1 MUX at the Transistor Level and Using Spintronic Devices."
 
 The project "Comparative Analysis of a 2:1 MUX at the Transistor Level (90nm) and Using Spintronic Devices" focuses on comparing the performance of a 2:1 multiplexer (MUX) designed with traditional 90nm CMOS transistors and emerging spintronic devices.
 
